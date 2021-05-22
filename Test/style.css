@@ -1,5 +1,10 @@
 body
 {
-  color: black;
-  
+  color: red;
+  font-family: Helvetica;
+}
+
+.logo
+{
+  width:100px;
 }
